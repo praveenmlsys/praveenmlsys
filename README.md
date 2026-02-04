@@ -1,4 +1,4 @@
-<!--
+<img width="320" height="42" alt="image" src="https://github.com/user-attachments/assets/a9299ab8-fafa-42d1-950d-fb793f08a036" /><!--
 Credits and references used in this README:
 
 1) Layout ideas and section inspiration:
@@ -27,7 +27,7 @@ Credits and references used in this README:
 <!-- Skill icons provided by skillicons.dev -->
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,aws,nginx,git,github,linux,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**:  
+**Also experienced with**:  
 SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 
 ---
@@ -36,7 +36,7 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/YOUR_USERNAME/policybot" target="_blank">
+      <a href="https://github.com/praveenmlsys/policybot" target="_blank">
         <b>PolicyBot – RAG Chatbot</b>
       </a>
       <br/>
@@ -79,10 +79,6 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 
 ---
 
-## Stats
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenmlsys&show_icons=true&theme=gruvbox)
-
----
 
 ## Links
 - **Portfolio**: http://portfilo.wuaze.com  
