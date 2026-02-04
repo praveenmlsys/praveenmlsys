@@ -1,4 +1,7 @@
-<img width="320" height="42" alt="image" src="https://github.com/user-attachments/assets/a9299ab8-fafa-42d1-950d-fb793f08a036" /><!--
+<img width="320" height="42" alt="header"
+src="https://github.com/user-attachments/assets/a9299ab8-fafa-42d1-950d-fb793f08a036" />
+
+<!--
 Credits and references used in this README:
 
 1) Layout ideas and section inspiration:
@@ -6,9 +9,6 @@ Credits and references used in this README:
 
 2) Skill icons (SVG badges):
    https://github.com/tandpfun/skill-icons
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
 -->
 
 # 👋 Praveen V
@@ -24,19 +24,19 @@ Credits and references used in this README:
 ---
 
 ## Skill Stack
-<!-- Skill icons provided by skillicons.dev -->
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,aws,nginx,git,github,linux,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
-**Also experienced with**:  
+**Additional experience:**  
 SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 
 ---
+
 ## Projects – Showcase
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/praveenmlsys/policybot" target="_blank">
+      <a href="https://github.com/praveenmlsys/policybot">
         <b>PolicyBot – RAG Chatbot</b>
       </a>
       <br/>
@@ -45,11 +45,15 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
       </sub>
       <br/><br/>
       <sub>
+        Reduced hallucinations by constraining answers to source documents.
+      </sub>
+      <br/><br/>
+      <sub>
         FastAPI · Embeddings · Vector Search · Local LLMs · Metrics
       </sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/praveenmlsys/movie-recommendation-system" target="_blank">
+      <a href="https://github.com/praveenmlsys/movie-recommendation-system">
         <b>Movie Recommendation System</b>
       </a>
       <br/>
@@ -58,16 +62,24 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
       </sub>
       <br/><br/>
       <sub>
+        Optimized text preprocessing and similarity pipelines for faster responses.
+      </sub>
+      <br/><br/>
+      <sub>
         NLP · Machine Learning · Backend APIs
       </sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/praveenmlsys/loan-approval-prediction" target="_blank">
+      <a href="https://github.com/praveenmlsys/loan-approval-prediction">
         <b>Loan Approval Prediction</b>
       </a>
       <br/>
       <sub>
         End-to-end ML pipeline with deployment.
+      </sub>
+      <br/><br/>
+      <sub>
+        Achieved 89.7% accuracy on 45k+ records.
       </sub>
       <br/><br/>
       <sub>
@@ -79,16 +91,13 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 
 ---
 
-
 ## Links
 - **Portfolio**: http://portfilo.wuaze.com  
 - **LinkedIn**: https://linkedin.com/in/praveen-v-ml  
 
-<a href="https://www.linkedin.com/in/praveen-v-ml/" target="blank">
+<a href="https://www.linkedin.com/in/praveen-v-ml/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://github.com/praveenmlsys" target="blank">
+<a href="https://github.com/praveenmlsys">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-
-<!-- Optional: remove GIF for a more professional look -->
