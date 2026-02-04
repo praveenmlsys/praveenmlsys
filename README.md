@@ -1,16 +1,98 @@
-## Hi there 👋
-
 <!--
-**praveenmlsys/praveenmlsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Credits and references used in this README:
 
-Here are some ideas to get you started:
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons
+
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
 -->
+
+# 👋 Praveen V
+**`Backend & Machine Learning Engineer`**
+
+## About Me
+- 🎓 AI & ML undergraduate (CSE – AI & ML)
+- 🧠 I build **production-ready backend systems and ML APIs**
+- ⚙️ Experienced with **FastAPI, Docker, SQL, and ML pipelines**
+- ☁️ Hands-on with **AWS deployments and scalable inference**
+- 🚀 Interested in **Backend Engineering, ML Systems, and MLOps**
+
+---
+
+## Skill Stack
+<!-- Skill icons provided by skillicons.dev -->
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,aws,nginx,git,github,linux,sklearn,tensorflow&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**:  
+SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
+
+---
+## Projects – Showcase
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/YOUR_USERNAME/policybot" target="_blank">
+        <b>PolicyBot – RAG Chatbot</b>
+      </a>
+      <br/>
+      <sub>
+        Backend system that answers strictly from policy documents using RAG.
+      </sub>
+      <br/><br/>
+      <sub>
+        FastAPI · Embeddings · Vector Search · Local LLMs · Metrics
+      </sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/praveenmlsys/movie-recommendation-system" target="_blank">
+        <b>Movie Recommendation System</b>
+      </a>
+      <br/>
+      <sub>
+        Title-based recommendation engine using TF-IDF and Cosine Similarity.
+      </sub>
+      <br/><br/>
+      <sub>
+        NLP · Machine Learning · Backend APIs
+      </sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/praveenmlsys/loan-approval-prediction" target="_blank">
+        <b>Loan Approval Prediction</b>
+      </a>
+      <br/>
+      <sub>
+        End-to-end ML pipeline with deployment.
+      </sub>
+      <br/><br/>
+      <sub>
+        Scikit-learn · Streamlit · Deployment
+      </sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stats
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveenmlsys&show_icons=true&theme=gruvbox)
+
+---
+
+## Links
+- **Portfolio**: http://portfilo.wuaze.com  
+- **LinkedIn**: https://linkedin.com/in/praveen-v-ml  
+
+<a href="https://www.linkedin.com/in/praveen-v-ml/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/praveenmlsys" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
+<!-- Optional: remove GIF for a more professional look -->
