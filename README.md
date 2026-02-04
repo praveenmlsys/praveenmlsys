@@ -1,16 +1,3 @@
-<img width="320" height="42" alt="header"
-src="https://github.com/user-attachments/assets/a9299ab8-fafa-42d1-950d-fb793f08a036" />
-
-<!--
-Credits and references used in this README:
-
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons
--->
-
 # 👋 Praveen V
 **`Backend & Machine Learning Engineer`**
 
