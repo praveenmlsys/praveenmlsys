@@ -10,10 +10,10 @@
 
 ---
 
-## Skill Stack
+## My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,docker,aws,nginx,git,github,linux,sklearn,tensorflow&theme=light)](https://skillicons.dev)
 
-**Additional experience:**  
+**Add on:**  
 SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 
 ---
