@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/praveenmlsys/praveenmlsys/main/header.png" alt="Praveen V Header" />
+<img src="https://raw.githubusercontent.com/praveenxo-dev/praveenxo-dev/main/header.png" alt="Praveen V Header" />
 
 # 👋 Praveen V
 **`Backend & Machine Learning Engineer`**
@@ -25,7 +25,7 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/praveenmlsys/policybot">
+      <a href="https://github.com/praveenxo-dev/policybot">
         <b>PolicyBot – RAG Chatbot</b>
       </a>
       <br/>
@@ -42,7 +42,7 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
       </sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/praveenmlsys/movie-recommendation-system">
+      <a href="https://github.com/praveenxo-dev/movie-recommendation-system">
         <b>Movie Recommendation System</b>
       </a>
       <br/>
@@ -59,7 +59,7 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
       </sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/praveenmlsys/loan-approval-prediction">
+      <a href="https://github.com/praveenxo-dev/loan-approval-prediction">
         <b>Loan Approval Prediction</b>
       </a>
       <br/>
@@ -81,12 +81,12 @@ SQL, REST APIs, MLflow, DVC, Pandas, NumPy, Streamlit, Java, C++, CI/CD basics
 ---
 
 ## Links
-- **Portfolio**: http://portfilo.wuaze.com  
-- **LinkedIn**: https://linkedin.com/in/praveen-v-ml  
+- **Portfolio**: https://praveenxo.netlify.app/
+- **LinkedIn**: https://linkedin.com/in/praveenxo
 
-<a href="https://www.linkedin.com/in/praveen-v-ml/">
+<a href="https://www.linkedin.com/in/praveenxo/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://github.com/praveenmlsys">
+<a href="https://github.com/praveenxo-dev">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
